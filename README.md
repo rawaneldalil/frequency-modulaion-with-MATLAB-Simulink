@@ -6,7 +6,6 @@ The files in this repositry is my work for the Communication theory and Systems 
 
 For more details about the project requirements, kindly check the requirements.pdf file, and also you can check the project results in the report files.
 
-Have a good day :)
 
 
 
